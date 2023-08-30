@@ -1,0 +1,196 @@
+{
+  "quiz": [
+    {
+      "q": "What is the capital of Australia?",
+      "a": "Sydney",
+      "b": "Canberra",
+      "c": "Melbourne",
+      "d": "Adelaide",
+      "correct": "b"
+    },
+    {
+      "q": "Which river is the longest in the world?",
+      "a": "Amazon",
+      "b": "Mississippi",
+      "c": "Nile",
+      "d": "Yangtze",
+      "correct": "c"
+    },
+    {
+      "q": "Which country is known as the Land of the Rising Sun?",
+      "a": "China",
+      "b": "Japan",
+      "c": "South Korea",
+      "d": "Thailand",
+      "correct": "b"
+    },
+    {
+      "q": "What is the currency of the European Union?",
+      "a": "Dollar",
+      "b": "Pound",
+      "c": "Euro",
+      "d": "Krona",
+      "correct": "c"
+    },
+    {
+      "q": "Who wrote the Declaration of Independence?",
+      "a": "George Washington",
+      "b": "Benjamin Franklin",
+      "c": "Thomas Jefferson",
+      "d": "John Adams",
+      "correct": "c"
+    },
+    {
+      "q": "During which war was the Battle of Gettysburg fought?",
+      "a": "Revolutionary War",
+      "b": "Civil War",
+      "c": "World War I",
+      "d": "World War II",
+      "correct": "b"
+    },
+    {
+      "q": "Who was the first Roman Emperor?",
+      "a": "Julius Caesar",
+      "b": "Augustus",
+      "c": "Nero",
+      "d": "Constantine",
+      "correct": "b"
+    },
+    {
+      "q": "What was the main reason for the construction of the Berlin Wall?",
+      "a": "To keep out invaders",
+      "b": "To divide East and West Berlin",
+      "c": "For architectural beauty",
+      "d": "As a tourist attraction",
+      "correct": "b"
+    },
+    {
+      "q": "What is the largest species of shark?",
+      "a": "Hammerhead Shark",
+      "b": "Great White Shark",
+      "c": "Whale Shark",
+      "d": "Tiger Shark",
+      "correct": "c"
+    },
+    {
+      "q": "Which bird is known for its elaborate courtship dance?",
+      "a": "Peacock",
+      "b": "Sparrow",
+      "c": "Albatross",
+      "d": "Flamingo",
+      "correct": "a"
+    },
+    {
+      "q": "Which animal is known as the 'King of the Jungle'?",
+      "a": "Elephant",
+      "b": "Tiger",
+      "c": "Lion",
+      "d": "Gorilla",
+      "correct": "c"
+    },
+    {
+      "q": "How many legs does a spider typically have?",
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12",
+      "correct": "b"
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "a": "Venus",
+      "b": "Mars",
+      "c": "Jupiter",
+      "d": "Saturn",
+      "correct": "b"
+    },
+    {
+      "q": "What is the square root of 144?",
+      "a": "14",
+      "b": "12",
+      "c": "16",
+      "d": "10",
+      "correct": "b"
+    },
+    {
+      "q": "Which famous scientist developed the theory of general relativity?",
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Stephen Hawking",
+      "d": "Marie Curie",
+      "correct": "b"
+    },
+    {
+      "q": "What is the smallest prime number?",
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3",
+      "correct": "c"
+    },
+    {
+      "q": "Which instrument measures atmospheric pressure?",
+      "a": "Thermometer",
+      "b": "Anemometer",
+      "c": "Barometer",
+      "d": "Seismometer",
+      "correct": "c"
+    },
+    {
+      "q": "Which element is represented by the symbol 'Na' in the periodic table?",
+      "a": "Neon",
+      "b": "Nitrogen",
+      "c": "Sodium",
+      "d": "Nickel",
+      "correct": "c"
+    },
+    {
+      "q": "Which is the largest mammal?",
+      "a": "Elephant",
+      "b": "Blue Whale",
+      "c": "Orca",
+      "d": "Giraffe",
+      "correct": "b"
+    },
+    {
+      "q": "Which ocean is the largest?",
+      "a": "Indian Ocean",
+      "b": "Atlantic Ocean",
+      "c": "Pacific Ocean",
+      "d": "Arctic Ocean",
+      "correct": "c"
+    },
+    {
+      "q": "Which country has the most time zones?",
+      "a": "USA",
+      "b": "China",
+      "c": "Russia",
+      "d": "Canada",
+      "correct": "c"
+    },
+    {
+      "q": "Who was the first woman to win a Nobel Prize?",
+      "a": "Malala Yousafzai",
+      "b": "Jane Goodall",
+      "c": "Marie Curie",
+      "d": "Rosalind Franklin",
+      "correct": "c"
+    },
+    {
+      "q": "Which of the following is NOT a gas giant?",
+      "a": "Jupiter",
+      "b": "Saturn",
+      "c": "Uranus",
+      "d": "Venus",
+      "correct": "d"
+    },
+    {
+      "q": "Which country first adopted the metric system?",
+      "a": "United States",
+      "b": "United Kingdom",
+      "c": "Germany",
+      "d": "France",
+      "correct": "d"
+    }
+  ]
+}
